@@ -1,0 +1,18 @@
+header .topo {
+    background-color: #08021698;
+    width: 100%;
+    padding: 10px 0;
+}
+
+img.logo {
+  display: block;
+  margin: 0 auto; 
+}
+
+h1 {
+  background-color: black;
+  color: chartreuse;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Franklin Gothic Medium'
+}
